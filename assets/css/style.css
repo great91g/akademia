@@ -193,7 +193,7 @@ h6 {
 
 .buy-tickets:hover {
   background: none;
-  color: #fff;
+  color: rgba(51, 147, 229, 0.62);
 }
 
 .buy-tickets:focus {
