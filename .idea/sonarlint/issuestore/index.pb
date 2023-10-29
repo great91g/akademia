@@ -13,5 +13,3 @@ g
 -assets/vendor/bootstrap/css/bootstrap.rtl.css,3/c/3c1e25f1de018256352361dc96d36b515b590be1
 Y
 )assets/vendor/bootstrap/css/bootstrap.css,1/5/1522aec49168f7b9bc25a62e0ac81fbac9f034a4
-A
-forms/contact.php,0/e/0ea2c2f7c6f7222283d84fd232e3b41066880c48
