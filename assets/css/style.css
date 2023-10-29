@@ -1055,11 +1055,11 @@ h6 {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #101522;
+  border: 1px solid #060c22 ;
 }
 
 #gallery .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #101522;
+  background-color: #060c22;
 }
 
 #gallery .swiper-slide-active {
@@ -1072,7 +1072,7 @@ h6 {
   }
 
   #gallery .swiper-slide-active {
-    border: 5px solid #101522;
+    border: 5px solid #060c22 ;
     padding: 4px;
     background: #fff;
     z-index: 1;
