@@ -1090,8 +1090,9 @@ h6 {
 }
 
 #supporters .supporters-wrap {
-  border-top: 1px solid #e0e5fa;
-  border-left: 1px solid #e0e5fa;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
   margin-bottom: 30px;
 }
 
