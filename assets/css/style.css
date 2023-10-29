@@ -1632,3 +1632,20 @@ h6 {
   font-size: 13px;
   color: #ddd;
 }
+.select-wrapper {
+  position: relative;
+  display: inline-block;
+}
+
+select {
+  padding-right: 20px; /* Dodaj odpowiednią ilość miejsca na ikonę */
+}
+
+i.fas.fa-chevron-down {
+  position: absolute;
+  top: 50%;
+  right: 10px; /* Odległość od prawego brzegu select */
+  transform: translateY(-50%);
+  color: #555; /* Kolor strzałki */
+  pointer-events: none; /* Zapobiega klikalności ikony */
+}
