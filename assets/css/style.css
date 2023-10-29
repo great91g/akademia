@@ -76,7 +76,7 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #f94a6a;
+  background: #FF7512;
   color: #fff;
 }
 
@@ -481,7 +481,7 @@ h6 {
 
 #hero:before {
   content: "";
-  background: rgba(6, 12, 34, 0.8);
+  background: rgba(6, 12, 34, 0.7);
   position: absolute;
   bottom: 0;
   top: 0;
