@@ -15,5 +15,3 @@ Y
 )assets/vendor/bootstrap/css/bootstrap.css,1/5/1522aec49168f7b9bc25a62e0ac81fbac9f034a4
 A
 forms/contact.php,0/e/0ea2c2f7c6f7222283d84fd232e3b41066880c48
-D
-speaker-details.html,1/8/18eef2f5f8b778ee420ddfb0d7cca0d6c11b65f6
